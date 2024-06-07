@@ -1,0 +1,4 @@
+server_url: https://jellyfin.example.com
+api_key: aaaaaaaaaaaaaaaa1111111111111111
+user_id: 111111111111aaaaaaaa11111111111a
+movies_dir: /path/to/movies
